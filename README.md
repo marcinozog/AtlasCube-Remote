@@ -39,6 +39,10 @@ Bluetooth, scheduled events and the device's settings — all from your phone.
 | :-------: | :----: | :------: |
 | ![Equalizer](docs/screenshots/equalizer.jpeg) | ![Events](docs/screenshots/events.jpeg) | ![Settings](docs/screenshots/settings.jpeg) |
 
+| Device settings | MDNS | Edit buttons |
+| :-------: | :----: | :------: |
+| ![Device settings](docs/screenshots/device_settings.jpeg) | ![MDNS](docs/screenshots/mdns.jpeg) | ![Edit buttons](docs/screenshots/edit_button_2.jpeg) |
+
 ## Navigation
 
 The bottom bar has five tabs — **Devices, Keypad, Playlist, Bluetooth, More** —
