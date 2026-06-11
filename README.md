@@ -4,6 +4,8 @@ An Android app to control an **AtlasCube** internet‑radio device over your loc
 network. It gives you full remote control of playback, playlists, sound,
 Bluetooth, scheduled events and the device's settings — all from your phone.
 
+📲 **[Get it on Google Play](https://play.google.com/store/apps/details?id=net.atlascube.remote)** — currently available for testers only.
+
 ## What it does
 
 - **Radio control** — play/stop, next/previous, volume, and a programmable
