@@ -31,11 +31,11 @@ Bluetooth, scheduled events and the device's settings — all from your phone.
 
 | Keypad | Playlist | Bluetooth |
 | :----: | :------: | :-------: |
-| ![Keypad](docs/screenshots/keypad.png) | ![Playlist](docs/screenshots/playlist.png) | ![Bluetooth](docs/screenshots/bluetooth.png) |
+| ![Keypad](docs/screenshots/keypad.jpeg) | ![Playlist](docs/screenshots/playlist.jpeg) | ![Bluetooth](docs/screenshots/bluetooth.jpeg) |
 
 | Equalizer | Events | Settings |
 | :-------: | :----: | :------: |
-| ![Equalizer](docs/screenshots/equalizer.png) | ![Events](docs/screenshots/events.png) | ![Settings](docs/screenshots/settings.png) |
+| ![Equalizer](docs/screenshots/equalizer.jpeg) | ![Events](docs/screenshots/events.jpeg) | ![Settings](docs/screenshots/settings.jpeg) |
 
 ## Navigation
 
