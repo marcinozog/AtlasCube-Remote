@@ -18,9 +18,11 @@ Bluetooth, scheduled events and the device's settings — all from your phone.
 - **Events** — create and manage the device's scheduled events (reminders,
   birthdays, name days, anniversaries and radio alarms). These run on the device
   itself, so they fire even when your phone is off.
-- **Discovery** — scan the local network for AtlasCube devices automatically.
-  Tap a result to add it, pre‑filled with its name and address; devices you've
-  already saved are flagged and tap through to edit.
+- **Discovery (mDNS)** — find AtlasCube devices on your network automatically,
+  no IP typing needed. Using mDNS (the same "Bonjour"/zero‑configuration tech
+  AirPlay and printers use), each device announces itself by its friendly
+  `<name>.local` address. Tap a result to add it, pre‑filled with its name and
+  address; devices you've already saved are flagged and tap through to edit.
 - **Device Settings** — a hub mirroring the device's settings page: Display,
   Audio, WiFi, NTP, Sleep & Wake, Theme (with a colour‑palette editor), MQTT,
   Screensaver, and Tools/OTA (firmware update).
