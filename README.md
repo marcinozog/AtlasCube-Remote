@@ -2,7 +2,8 @@
 
 An Android app to control an **AtlasCube** internet‑radio device over your local
 network. It gives you full remote control of playback, playlists, sound,
-Bluetooth, scheduled events and the device's settings — all from your phone.
+Bluetooth, scheduled events, photo-frame slides and the device's settings — all
+from your phone.
 
 📲 **[Get it on Google Play](https://play.google.com/store/apps/details?id=net.atlascube.remote)** — currently available for testers only.
 
@@ -18,8 +19,16 @@ Bluetooth, scheduled events and the device's settings — all from your phone.
 - **Bluetooth** — switch the device audio source between Radio and Bluetooth,
   see track metadata and drive transport (prev/play/pause/next) and volume.
 - **Events** — create and manage the device's scheduled events (reminders,
-  birthdays, name days, anniversaries and radio alarms). These run on the device
-  itself, so they fire even when your phone is off.
+  birthdays, name days, anniversaries, radio alarms and **voice notifications**).
+  For a voice notification the phone synthesizes the spoken message on-device
+  (TTS) and uploads it to the device's SD card; you can preview the clip and see
+  the spoken text right in the editor. Events run on the device itself, so they
+  fire even when your phone is off.
+- **Photo frame & SD files** — browse the device's microSD card (upload, rename,
+  delete files). Turn phone photos into photo-frame slides in one step: pick an
+  image and the app converts it to the device's panel-sized format and uploads
+  it. The screensaver's source folder, order, reveal effect and timing are set
+  from Device Settings → Screensaver.
 - **Discovery (mDNS)** — find AtlasCube devices on your network automatically,
   no IP typing needed. Using mDNS (the same "Bonjour"/zero‑configuration tech
   AirPlay and printers use), each device announces itself by its friendly
